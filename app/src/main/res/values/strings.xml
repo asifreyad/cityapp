@@ -1,0 +1,44 @@
+<resources>
+    <!--    login page-->
+    <string name="app_name">login</string>
+    <string name="login_label">Login</string>
+    <string name="user_password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="login">Login</string>
+    <string name="create_btn_text">Create Account</string>
+    <!--    signUp page-->
+    <string name="create_account">Create\nAccount</string>
+    <string name="user_email">Email</string>
+    <string name="next_btn">Next</string>
+    <string name="login_btn">LogIn</string>
+    <string name="user_name">User Name</string>
+    <string name="back_button_logo">back button logo</string>
+
+    <string name="circle_image">circle image</string>
+    <string name="grow_your_business">grow\nyour business</string>
+    <string name="slogan">we will help to grow your business</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="how_we_work">How We work</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_no">Phone No</string>
+    <string name="choose_gender">Choose Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="age">Select Your Age</string>
+    <string name="select_country_code">Select Country Code</string>
+
+<!--    dash board-->
+    <string name="add_button_des">add button</string>
+    <string name="menu_button_des">menu button</string>
+
+    <string name="dash_app_name">Abrar Furniture</string>
+    <string name="search">Search…</string>
+    <string name="search_logo_des">search logo</string>
+
+    <string name="card1">card1</string>
+    <string name="card2">card2</string>
+    <string name="card3">card3</string>
+    <string name="card4">card4</string>
+</resources>

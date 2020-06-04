@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "664210278785",
+    "firebase_url": "https://fir-5cb09.firebaseio.com",
+    "project_id": "fir-5cb09",
+    "storage_bucket": "fir-5cb09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664210278785:android:8b6171c0b11401c82d0080",
+        "android_client_info": {
+          "package_name": "com.reyad.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664210278785-2i4d7p3gfp7nkogl49tvbvimletk477k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGgZgT4vtU_4g5fCJQEzLbLS-8RRi4dQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664210278785-2i4d7p3gfp7nkogl49tvbvimletk477k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
